@@ -1,5 +1,7 @@
 ### 4. `mcp-client` — Model Context Protocol Client
 
+Requires: OpenAI API key
+
 - **Description:**  
   Client for running agentic inference against MCP/JSON-RPC servers (e.g., Omni, OpenAI).
 - **Entrypoint:**  
