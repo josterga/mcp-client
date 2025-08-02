@@ -1,0 +1,8 @@
+mcps:
+  - id: Server_1
+    url: "https://server-url.com/mcp/https"
+    headers:
+      Authorization: "Bearer ${AUTH_KEY}"
+      Accept: "application/json, text/event-stream"
+      X-EXTRA-ARGS: "${EXTRA_ARGS}"
+  

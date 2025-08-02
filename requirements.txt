@@ -1,0 +1,16 @@
+# Core HTTP + JSON
+requests>=2.31.0
+
+# YAML config support
+pyyaml>=6.0
+
+# OpenAI API client (for planning + synthesis)
+openai>=1.14.3
+
+# .env support
+python-dotenv>=1.0.1
+
+# Optional: Pretty CLI UX
+# typer[all]>=0.9.0
+# rich>=13.7.0
+openai

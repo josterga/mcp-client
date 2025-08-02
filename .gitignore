@@ -1,0 +1,5 @@
+.env
+venv
+__pycache__
+mcp_client.egg-info
+.DS_Store
