@@ -36,7 +36,7 @@ class MCPClient:
             "params": {
                 "protocolVersion": "1.0",
                 "capabilities": {},
-                "clientInfo": {"name": "mcp-client", "version": "1.0"}
+                "clientInfo": {"name": "mcp_client", "version": "1.0"}
             }
         }
         try:
